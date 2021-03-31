@@ -8,3 +8,15 @@ console.log('szynka wyszła perfekcyjnie')
 */
 
 console.log('złodziej ukradł bormaschine')
+
+//console.log('nie 2 dychy a 3')
+//console.log('pankreatyna')
+//console.log('kreon 25000')
+
+/*
+console.log('prokit')
+console.log('ursocam')
+console.log('vinpocetine')
+console.log('milurit')
+console.log('multifloric')
+*/
