@@ -18,3 +18,7 @@ console.log('I need money')
 //console.log('no operations')
 
 //console.log('BSOD')
+
+console.log('Everything is ok')
+
+console.log("Whatever")
