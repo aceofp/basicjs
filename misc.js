@@ -9,3 +9,12 @@ z = z + 13
 console.log(x)
 console.log(y)
 console.log(z)
+/*
+console.log('We love pizza')
+console.log('My ps plus subscription has expired')
+console.log('I need money')
+*/
+
+//console.log('no operations')
+
+//console.log('BSOD')
