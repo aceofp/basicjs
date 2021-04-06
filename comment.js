@@ -20,5 +20,3 @@ console.log('vinpocetine')
 console.log('milurit')
 console.log('multifloric')
 */
-
-//console.log('pacifim rim')
