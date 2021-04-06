@@ -23,3 +23,6 @@ console.log('I need money')
 console.log('Everything is ok')
 
 console.log("Whatever")
+
+//console.log('drugs not allowed in this country')
+//console.log('boston mit')
