@@ -1,5 +1,5 @@
 var remainder;
 
-remainder = 11 % 2
+remainder = 12 % 3
 
 console.log(remainder)
