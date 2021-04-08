@@ -1,7 +1,6 @@
 'This is only a test'
+"I like to write some random stuff"
+var myvar;
 
-'LAPD SWAT Officer get shot in the vest then in the face'
 
-'Lebanon Explosion'
-
-'Testing conflicts'
+"The file must have something on the end"
