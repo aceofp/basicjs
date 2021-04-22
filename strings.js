@@ -22,3 +22,7 @@ var what = ' bimber';
 var sentence = "My friend Michael likes drinking 50% bimber";
 var mySentence = "My friend " + Name + ' likes ' + activity + (percentage + spirytus) + '%' + what;
 console.log(mySentence)
+
+
+var templateLiteral = `My friend ${Name} likes ${activity}${percentage + spirytus}%${what}`;
+console.log(templateLiteral)
