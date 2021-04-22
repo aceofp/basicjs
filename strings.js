@@ -12,3 +12,13 @@ console.log(SoberGuy);
 
 var Buka = `He's the real "deal" about alcohol`;
 console.log(Buka);
+
+var Name = 'Michael';
+var activity = 'drinking ';
+var percentage = 40;
+var spirytus = 10;
+var what = ' bimber';
+
+var sentence = "My friend Michael likes drinking 50% bimber";
+var mySentence = "My friend " + Name + ' likes ' + activity + (percentage + spirytus) + '%' + what;
+console.log(mySentence)
