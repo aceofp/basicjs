@@ -20,3 +20,7 @@ console.log('vinpocetine')
 console.log('milurit')
 console.log('multifloric')
 */
+
+/*
+I am practicing working with AWS. Today I'm uploading files to check how S3 bucket versioning works. Let's hope I learn a lot today ;)
+*/
