@@ -23,4 +23,5 @@ console.log('multifloric')
 
 /*
 I am practicing working with AWS. Today I'm uploading files to check how S3 bucket versioning works. Let's hope I learn a lot today ;)
+Now let's check how it works if I create another version of this file. Now it should have 3 versions on my S3 bucket
 */
